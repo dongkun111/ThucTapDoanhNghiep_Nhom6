@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "Trangchu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var menuChinh = (List<Model.EF.Game>)ViewBag.MenuChinh;
+    var Gametop = (List<Model.EF.Game>)ViewBag.Gametop;
+}
+<div class="KhungChinh">
+    @foreach (var item in menuChinh)
+    {
+        <a href="/chi-tiet/@item.UnTitle-@item.ID">
+            <p>
+                <img src="@item.Image" alt="HinhGame">
+                @item.Name
+        </p>
+
+    </a>
+    }
+</div>
+
+<div class="Topgame">
+    <center><p style="margin-top:10px; font-weight: bold;font-size: 30px;border-bottom: 1px solid #E1E1E1;color: #0B615E">TOP GAME HAY</p></center>
+    @foreach (var item2 in Gametop)
+    {
+        <a href="/chi-tiet/@item2.UnTitle-@item2.ID">
+            <div class="hinh"><img src="@item2.Image" alt="Ảnh lỗi"></div>
+            <div class="chu"><p>@item2.Name</p></div>
+        </a>
+        <center><div class="gach" align="center"></div></center>
+    }
+
+
+</div>
+

@@ -1,0 +1,58 @@
+E:\VS\TaiGameMP\Model\bin\Debug\Model.dll.config
+E:\VS\TaiGameMP\Model\bin\Debug\Model.dll
+E:\VS\TaiGameMP\Model\bin\Debug\Model.pdb
+E:\VS\TaiGameMP\Model\bin\Debug\EntityFramework.dll
+E:\VS\TaiGameMP\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\VS\TaiGameMP\Model\bin\Debug\EntityFramework.xml
+E:\VS\TaiGameMP\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\VS\TaiGameMP\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\VS\TaiGameMP\Model\obj\Debug\Model.dll
+E:\VS\TaiGameMP\Model\obj\Debug\Model.pdb
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\bin\Debug\Model.dll.config
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\bin\Debug\Model.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\bin\Debug\Model.pdb
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\bin\Debug\EntityFramework.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\bin\Debug\EntityFramework.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\obj\Debug\Model.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\Model\obj\Debug\Model.pdb
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\bin\Debug\Model.dll.config
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\bin\Debug\Model.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\bin\Debug\Model.pdb
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.pdb
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\Model.dll.config
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\Model.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\Model.pdb
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.pdb
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\Model.dll.config
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\Model.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\Model.pdb
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.csproj.CopyComplete
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\Model\obj\Debug\Model.pdb

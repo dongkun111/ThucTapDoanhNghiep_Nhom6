@@ -1,0 +1,42 @@
+﻿@{
+    Layout = null;
+}
+@model TaiGameMP.Models.LoginKhach
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Đăng nhập</title>
+    <link href="~/Assets/css/style-dangnhap.css" rel="stylesheet" type="text/css">
+    @*<script type="text/javascript" src="../../JS/kiemtradangnhap.js"></script>*@
+
+</head>
+
+<body>
+    @using (Html.BeginForm("LoginKhachHang", "Khach", FormMethod.Post))
+    {
+        <div class="khung">
+            <div class="dangnhap">
+                <center><label class="tieude">Đăng nhập</label></center>
+                @Html.ValidationSummary(false, "", new { @class = "text-danger" });
+                <div class="taikhoan">
+                    <div class="trongsuot">
+                        @Html.TextBoxFor(model => model.Username, new { @class = "trongsuot", @id = "acc", @autofocus = "autofocus" })
+                        <br><br>
+                        @Html.PasswordFor(model => model.Password, new { @class = "trongsuot", @id = "pass" })
+                    </div>
+                </div>
+                @*<input name="chkGiuDangNhap" type="checkbox" id="chkGDN"><label id="lableDN">*@
+                <div style="padding-top:40px">
+                    @Html.CheckBoxFor(Model => Model.RememberMe, new { @class = "", @id = "#chkGDN" })
+                    <label id="lableDN">
+                        Giữ cho tôi luôn đăng nhập
+                    </label>
+                </div>
+                <center><button type="submit" name="sumbmit" value="ĐĂNG NHẬP" class="nutsubmit">ĐĂNG NHẬP</button></center>
+            </div>
+        </div>
+    }
+</body>
+</html>
+

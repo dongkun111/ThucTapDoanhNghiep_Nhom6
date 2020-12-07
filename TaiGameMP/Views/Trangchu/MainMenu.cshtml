@@ -1,0 +1,113 @@
+﻿@model List<Model.EF.Menu>
+<ul>
+    <a href="/trang-chu">
+        <img src="/Assets/Hinh/ys.png" alt="ảnh lỗi" title="Trang chủ">
+    </a>
+    @{
+        var session = (TaiGameMP.Common.KhachLogin)Session[TaiGameMP.Common.CommonConstants.KHACH_SESSION];
+
+    }
+    @if (session == null)
+    {
+        foreach (var item in Model.Where(x => x.Submenu == null))
+        {
+            var subMenu = Model.Where(x => x.Submenu == item.ID);
+            if (item.Text != "Tên KH")
+            {
+                if (item.Multilevel == false)
+                {
+                    <li>
+                        <a href="@item.Link">@item.Text</a>
+                        <ul class="menu-phu">
+                            @foreach (var item2 in Model.Where(x => x.Submenu != null))
+                            {
+                                if (item2.Submenu == item.ID)
+                                {
+                                    <li><a href="@item2.Link">@item2.Text</a></li>
+                                }
+                            }
+                        </ul>
+                    </li>
+                }
+                if (item.Multilevel == true)
+                {
+                    <li>
+                        <a href="@item.Link">@item.Text</a>
+                        <ul class="menu-phu">
+                            @foreach (var item3 in Model.Where(x => x.Submenu != null))
+                            {
+                                if (item3.Submenu == item.ID)
+                                {
+                                    <li><a href="@item3.Link">@item3.Text</a></li>
+                                }
+                            }
+                        </ul>
+                    </li>
+                }
+            }
+        }
+    }
+    else
+    {
+        foreach (var item in Model.Where(x => x.Submenu == null))
+        {
+            var subMenu = Model.Where(x => x.Submenu == item.ID);
+            if (item.Text != "THÀNH VIÊN")
+            {
+                if (item.Multilevel == false)
+                {
+                    <li>
+                        <a href="@item.Link">@item.Text</a>
+                        <ul class="menu-phu">
+                            @foreach (var item2 in Model.Where(x => x.Submenu != null))
+                            {
+                                if (item2.Submenu == item.ID)
+                                {
+                                    <li><a href="@item2.Link">@item2.Text</a></li>
+                                }
+                            }
+                        </ul>
+                    </li>
+                }
+                if (item.Multilevel == true)
+                {
+                    if (item.Text == "Tên KH")
+                    {
+                        <li>
+                            <a href="@item.Link">@session.UserName</a>
+                            <ul class="menu-phu">
+                                @foreach (var item2 in Model.Where(x => x.Submenu != null))
+                                                    {
+                                                        if (item2.Submenu == item.ID)
+                                                        {
+                                        <li><a href="@item2.Link">@item2.Text</a></li>
+                                    }
+                                }
+                            </ul>
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            <a href="@item.Link">@item.Text</a>
+                            <ul class="menu-phu">
+                                @foreach (var item3 in Model.Where(x => x.Submenu != null))
+                                {
+                                    if (item3.Submenu == item.ID)
+                                    {
+                                        <li><a href="@item3.Link">@item3.Text</a></li>
+                                    }
+                                }
+                            </ul>
+                        </li>
+                    }
+                }
+            }
+        }
+    }
+
+
+    <a href="mailto:hackerbv1999@gmail.com"><img class="icon" src="~/Assets/Hinh/gm.png" alt="ảnh lỗi" title="Gmail"></a>
+    <a href="https://www.youtube.com/channel/UCCMV1cN0wKlzJ8FNbiyj6MA?"><img class="icon" src="~/Assets/Hinh/yt.png" alt="ảnh lỗi" title="Youtube"></a>
+    <a href="https://www.facebook.com/linhhon.dedai"><img class="icon" src="~/Assets/Hinh/fb.png" alt="ảnh lỗi" title="Facebook"></a>
+</ul>

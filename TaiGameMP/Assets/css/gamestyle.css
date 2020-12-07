@@ -1,0 +1,178 @@
+﻿/* Reset cái css đơn giản vì mội trình duyệt có cách hiển thị khác nhau nên ta phải reset giá trị về ban đầu , ở đây reset về khoảng cách về bằng 0*/
+*
+{
+	padding: 0; /*khoảng không cho các thành phần*/
+	margin: 0; /*canh lề cho thành phần*/
+}
+/*-------------------------------------- Thiết kế lớp menu --------------------------------------------*/
+.menu
+{
+	font-family:  Times, "Times New Roman", "serif";	/*Cài đặt font chữ là time new roman*/
+	background: #161010; /*Màu nên là màu đen*/
+	color: white; /*màu chữ là màu trắng*/
+	text-align: center;
+	width:100%;
+	position:fixed; /*Thuộc tính này giúp thanh menu luôn cố định mỗi khi cuộn trình duyệt*/
+}
+.menu ul
+{
+	list-style: none; /*bỏ các thiết kế trong list*/
+	
+}
+.menu ul li
+{
+	display: inline-table; /*hiển thị các chữ nằm ngang*/
+	height: 60px; /*chiêu cao là 60px*/
+	width: 180px; /*chiều rông là 180px*/
+	line-height:60px; /*vị trí cách nhau giữa các dòng (để chữ nằm giữa thì thuộc tính line-height phải set giá trị bằng với height)*/
+	position: relative; /*thuộc tính này dùng để set vị trí tuyệt đối, có thuộc tính này thì khi điều chỉnh giá trị cho thẻ ul li thì nó sẽ không ảnh hưởng tới các phần tử ở sau nó*/
+
+}
+.menu ul li a
+{
+	text-decoration: none; /*bỏ dấu gạch chân dưới chữ*/
+	color: white; /*màu chữ là màu trăng*/
+	display: block; /*hiển thị theo một khối*/
+	text-align: center; /*chữ nằm ở giữa khối*/
+	
+}
+
+.menu ul li>.menu-phu /*dấu > là vùng chọn thứ cấp(selector) liền nhau , tức là chỉ những phần tử nào sử dụng class menu-phu nằm trong thẻ ul li mới có những thuộc tính ở dưới*/
+{
+	background: black;
+	display: none; /*thuộc tính này có ý nghĩa là ẩn các menu con đi */
+}
+.menu ul li a:hover
+{
+	color: #C0B8B9; /*màu chữ khi di chuyển chuột vào menu*/
+	background: #4A3E3E; /*màu nền khi di chuyển chuột vào menu*/
+}
+.menu ul li:hover >.menu-phu /*dấu > là vùng chọn thứ cấp(selector) liền nhau , tức là khi di chuyển chuột vào menu thì chỉ những phần tử nào sử dụng class menu-phu nằm trong thẻ ul li mới có những thuộc tính ở dưới*/
+{
+	position: absolute; /*giá trị absolute ở đây nghĩa là định dạng tuyệt đối, tức là nó sẽ không vượt khỏi khung được tạo ở menu ul li , nơi chứa giá trị relative*/
+	display: block; /*Hiển thị theo một khối*/
+}
+/*----------------------------------------------- *** -------------------------------------------------*/
+
+.banner
+{
+	background: url("../Hinh/banner.jpg");
+	width: 100%;
+	height: 400px;
+}
+.timkiem 
+{
+	padding: 150px 100px;
+}
+.timkiem input
+{
+	box-sizing: border-box;
+	border-radius: 10px;
+	width: 180px;
+	outline: none;
+	height: 30px;
+}
+/*----------------------------------------------- *** -------------------------------------------------*/
+.web
+{
+	font-family: Times New Roman;
+	width: 1320px;
+	margin: 0px auto;
+}
+.web .game
+{
+	width: 980px;
+	min-height: 600px;
+	float: left;
+}
+.web .game .tieude
+{
+	background: #46ED78;
+	text-align: center;
+	margin:40px 0px 0px 20px;
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+}
+.web .game .mucluc
+{
+	background: #46ED78;
+	text-align: center;
+	margin-left: 30px;
+	font-weight:600;
+	font-size: 25px;
+}
+.web .game .hinhgt img
+{
+	width: 800px;
+	height: 440px;
+	margin:  10px 100px;
+}
+.web .game .hinhgt video
+{
+	width: 800px;
+	height: 440px;
+	margin:  10px 100px;
+}
+.web .game .text
+{
+	
+	font-size: 18px;
+	margin-top: 5px;
+	margin-left: 60px;
+}
+
+.web .game table
+{
+	border: 1px solid #ccc;
+	margin-left: 30px;
+	border-collapse: collapse;
+	width: 90%;
+	font-size: 18px;
+}
+.web .game th.giua
+{
+	width: 50%;
+	height: 50px;
+}
+.web .game th.trai
+{
+	width: 8%;
+	height: 50px;
+}
+.web .game td,th
+{
+	border: 1px solid #ccc;
+	height: 30px;
+	text-align: center;
+	word-break: keep-all;
+}
+.web .game .taigame
+{
+	font-size: 18px;
+	color: black;
+	margin-left: 60px;
+}
+.web .game .huongdan p
+{
+	font-size: 18px;
+	margin-left: 60px;
+	line-height: 30px;	
+}
+.web .game .taokhoangtrang
+{
+	padding-bottom: 50px;
+}
+.web .game .taigame a
+{
+	text-decoration: none;
+	color: blue;
+}
+.web .topgame
+{
+	margin:74px 0px 0px 35px;
+	width: 300px;
+	/*background: #AC9D9E;*/
+	min-height: 600px;
+	float:left;
+}

@@ -1,0 +1,28 @@
+@charset "utf-8";
+body
+{
+	background: url("../Hinh/bgdangky.png");
+	background-size: cover;
+
+}
+.ban
+{
+	margin-top: 5px;
+}
+.date
+{
+	width: 40px;
+}
+.tieude
+{
+	color: yellow;
+	text-align: center;
+	font-size: 35px;
+}
+
+table tbody tr td
+{
+	font-size: 20px;
+	color: #eaff00;
+	/*color: #F8FF00;*/
+}

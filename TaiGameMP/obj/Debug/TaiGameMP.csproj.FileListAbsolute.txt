@@ -1,0 +1,283 @@
+E:\VS\TaiGameMP\TaiGameMP\bin\ApplicationInsights.config
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\csc.exe
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\System.Collections.Immutable.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\vbc.exe
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\VBCSCompiler.exe
+E:\VS\TaiGameMP\TaiGameMP\bin\roslyn\VBCSCompiler.exe.config
+E:\VS\TaiGameMP\TaiGameMP\bin\TaiGameMP.dll.config
+E:\VS\TaiGameMP\TaiGameMP\bin\TaiGameMP.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\TaiGameMP.pdb
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.AI.DependencyCollector.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.AI.Web.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.AI.WindowsServer.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.ApplicationInsights.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\System.Web.Helpers.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\System.Web.Mvc.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\System.Web.Optimization.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\System.Web.Razor.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.Deployment.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.Razor.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Antlr3.Runtime.pdb
+E:\VS\TaiGameMP\TaiGameMP\bin\Newtonsoft.Json.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\EntityFramework.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\EntityFramework.SqlServer.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Google.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csprojResolveAssemblyReference.cache
+E:\VS\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.dll
+E:\VS\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.pdb
+E:\VS\TaiGameMP\TaiGameMP\bin\Model.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\Model.pdb
+E:\VS\TaiGameMP\TaiGameMP\bin\PagedList.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\PagedList.Mvc.xml
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS\TaiGameMP\TaiGameMP\bin\CKFinder.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\ApplicationInsights.config
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\csc.exe
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\vbc.exe
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\TaiGameMP.dll.config
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\TaiGameMP.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\TaiGameMP.pdb
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Model.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Model.pdb
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Model.dll.config
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.AI.Web.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\PagedList.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\PagedList.Mvc.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\System.Web.Helpers.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\System.Web.Mvc.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\System.Web.Optimization.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\System.Web.Razor.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Antlr3.Runtime.pdb
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Newtonsoft.Json.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\EntityFramework.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\EntityFramework.SqlServer.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csprojAssemblyReference.cache
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csproj.CopyComplete
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.dll
+C:\Users\Hieu\Downloads\TaiGameMP\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.pdb
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\ApplicationInsights.config
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\csc.exe
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\vbc.exe
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\TaiGameMP.dll.config
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\TaiGameMP.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\TaiGameMP.pdb
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Model.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Model.pdb
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Model.dll.config
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.Web.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\PagedList.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\PagedList.Mvc.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Helpers.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Mvc.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Optimization.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Razor.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Antlr3.Runtime.pdb
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Newtonsoft.Json.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\EntityFramework.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\EntityFramework.SqlServer.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csprojAssemblyReference.cache
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csproj.CoreCompileInputs.cache
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csproj.CopyComplete
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.dll
+C:\Users\Baoenzo\Downloads\Compressed\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.pdb
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\ApplicationInsights.config
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\csc.exe
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\vbc.exe
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\TaiGameMP.dll.config
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\TaiGameMP.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\TaiGameMP.pdb
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Model.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Model.pdb
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Model.dll.config
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.Web.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\PagedList.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\PagedList.Mvc.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Helpers.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Mvc.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Optimization.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Razor.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Antlr3.Runtime.pdb
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Newtonsoft.Json.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\EntityFramework.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\EntityFramework.SqlServer.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csprojAssemblyReference.cache
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csproj.CopyComplete
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.dll
+C:\Users\Hieu\Downloads\Compressed\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.pdb
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\ApplicationInsights.config
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\csc.exe
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\System.Collections.Immutable.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\System.Reflection.Metadata.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\vbc.exe
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\VBCSCompiler.exe
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\roslyn\VBCSCompiler.exe.config
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\TaiGameMP.dll.config
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\TaiGameMP.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\TaiGameMP.pdb
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Model.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Cookies.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Model.pdb
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Model.dll.config
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.DependencyCollector.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.Web.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AI.WindowsServer.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.ApplicationInsights.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\PagedList.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\PagedList.Mvc.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Helpers.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Mvc.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Optimization.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.Razor.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.Deployment.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\System.Web.WebPages.Razor.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Antlr3.Runtime.pdb
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Newtonsoft.Json.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\EntityFramework.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\EntityFramework.SqlServer.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.Core.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Facebook.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.OAuth.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Google.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Twitter.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\bin\Microsoft.Owin.Security.Cookies.xml
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csprojAssemblyReference.cache
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csproj.CoreCompileInputs.cache
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.csproj.CopyComplete
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.dll
+D:\web\New folder\TaiGameMP2\TaiGameMP2\TaiGameMP\TaiGameMP\obj\Debug\TaiGameMP.pdb

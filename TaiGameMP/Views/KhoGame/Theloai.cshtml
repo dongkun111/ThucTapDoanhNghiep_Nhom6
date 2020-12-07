@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Theloai";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var menuChinh = (List<Model.EF.Game>)ViewBag.MenuChinh;
+    var category = (List<Model.EF.GameCategory>)ViewBag.Category;
+}
+<div class="KhungChinh">
+    @foreach (var item in menuChinh)
+    {
+       
+            var url = "/chi-tiet" + item.UnTitle + "-" + item.ID;
+            <a href="@url">
+           
+                <p>
+                    <img src="@item.Image" alt="HinhGame">
+                    @item.Name
+                </p>
+
+            </a>
+        
+
+    }
+</div>

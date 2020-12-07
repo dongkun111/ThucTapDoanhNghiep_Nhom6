@@ -1,0 +1,60 @@
+﻿@{
+    Layout = null;
+}
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Bão Game</title>
+    <link href="~/Assets/css/trangchu.css" rel="stylesheet" />
+    <link href="~/Assets/css/gamestyle.css" rel="stylesheet" />
+    <link href="~/Assets/css/open-iconic-bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/animate.css" rel="stylesheet" />
+    <link href="~/Assets/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/magnific-popup.css" rel="stylesheet" />
+    <link href="~/Assets/css/aos.css" rel="stylesheet" />
+    <link href="~/Assets/css/icomoon.css" rel="stylesheet" />
+    <link href="~/Assets/css/bootstrap-datepicker.css" rel="stylesheet" />
+    <link href="~/Assets/css/jquery.timepicker.css" rel="stylesheet" />
+    <link href="~/Assets/css/flaticon.css" rel="stylesheet" />
+    <link href="~/Assets/css/icomoon.css" rel="stylesheet" />
+    <link href="~/Assets/css/jquery-ui.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="menu">
+        <ul>
+            @{ Html.RenderAction("MainMenu", "Trangchu"); }
+        </ul>
+    </div>  
+    <div class="banner" align="center">
+        <center>
+            <form action="/tim-kiem" class="timkiem" method="get">
+                <input type="text" name="tukhoa" placeholder="Nhập từ khóa..">
+            </form>
+        </center>
+    </div>
+
+    <div class="web">
+        @RenderBody()
+        
+
+    </div>
+    <div class="cuoitrang">
+        <img src="~/Assets/Hinh/bannercuoitrang.png" alt="ảnh lỗi">
+        <p class="chu">THÔNG TIN</p>
+        <p class="tt">Đây là website mang đến cho bạn những thông tin mới nhất về thị trường game.Luôn cập nhật những trò chơi mới.Cung cấp link tải game và hỗ trợ cài đặt tận tình.</p>
+        <div class="follow">
+            <p>FOLLOW</p>
+            <a href="https://www.facebook.com/linhhon.dedai"><img class="icon" src="~/Assets/Hinh/fb.png" alt="ảnh lỗi" title="Facebook"></a>
+            <a href="https://www.youtube.com/channel/UCCMV1cN0wKlzJ8FNbiyj6MA?"><img class="icon" src="~/Assets/Hinh/yt.png" alt="ảnh lỗi" title="Youtube"></a>
+            <a href="mailto:hackerbv1999@gmail.com"><img class="icon" src="~/Assets/Hinh/gm.png" alt="ảnh lỗi" title="Gmail"></a>
+
+        </div>
+        <div class="ke"></div>
+        <p style="color: white; float:left ; margin: 15px 0px 0px 20px;font-size: 18px">Copyright © 2019 bởi Bão Game. Được thành lập và phát triển bởi Siêu nhân</p>
+    </div>
+    @RenderSection("jsFooter2", required: false)
+</body>
+</html>

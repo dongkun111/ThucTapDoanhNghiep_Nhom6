@@ -1,0 +1,196 @@
+﻿@model Model.EF.Game
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/Layout2.cshtml";
+    var relatedGame = (List<Model.EF.Game>)ViewBag.RelatedGame;
+    var menuChinh = (List<Model.EF.Game>)ViewBag.MenuChinh;
+    var binhluanssssss = (List<Model.EF.BinhLuan>)ViewBag.BinhLuan;
+}
+<style>
+    .web1
+{
+	font-family: Times New Roman;
+	width: 1320px;
+	margin: 0px auto;
+}
+.web1 .game1
+{
+	width: 980px;
+	min-height: 600px;
+	float: left;
+}
+.web1 .game1 .tieude1
+{
+	background: #46ED78;
+	text-align: center;
+	margin:40px 0px 0px 20px;
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+}
+.web1 .game1 .mucluc1
+{
+	background: #46ED78;
+	text-align: center;
+	margin-left: 30px;
+	font-weight:600;
+	font-size: 25px;
+}
+.web1 .game1 .hinhgt img
+{
+	width: 800px;
+	height: 440px;
+	margin:  10px 100px;
+}
+.web1 .game1 .text1
+{
+	
+	font-size: 18px;
+	margin-top: 5px;
+	margin-left: 60px;
+}
+
+.web1 .game1 table
+{
+	border: 1px solid #ccc;
+	margin-left: 30px;
+	border-collapse: collapse;
+	width: 90%;
+	font-size: 18px;
+}
+.web1 .game1 th.giua
+{
+	width: 50%;
+	height: 50px;
+}
+.web1 .game1 th.trai
+{
+	width: 8%;
+	height: 50px;
+}
+.web1 .game1 td,th
+{
+	border: 1px solid #ccc;
+	height: 30px;
+	text-align: center;
+	word-break: keep-all;
+}
+.web1 .game1 .taigame1
+{
+	font-size: 20px;
+	color: black;
+	margin-left: 60px;
+}
+.web1 .game1 .huongdan1 p
+{
+	font-size: 18px;
+	margin-left: 60px;
+	line-height: 30px;	
+}
+.web1 .game1 .taokhoangtrang
+{
+	padding-bottom: 20px;
+}
+</style>
+<div class="web1">
+    <div class="game1">
+        @foreach (var item in relatedGame)
+        {
+            var url = "/chi-tiet/" + item.UnTitle + "-" + item.ID;
+        }
+        <p class="tieude1">@Model.Name</p>
+
+        <br />
+        <p class="text1">@Model.Detail</p>
+        <br />
+        <div class="hinhgt">
+            <img src="@Model.Image" alt="Ảnh lỗi">
+        </div>
+        <p class="mucluc1">Cấu hình</p>
+        <br><br>
+        <center>
+            <table>
+                <tr>
+                    <th class="trai"> </th>
+                    <th class="giua">Cấu hình tối thiểu</th>
+                    <th>Cấu hình yêu cầu</th>
+                </tr>
+                <tr>
+                    <td><b>OS</b></td>
+                    <td> Windows® XP / Windows Vista® / Windows® 7</td>
+                    <td> Windows® XP / Windows Vista® / Windows® 7</td>
+                </tr>
+                <tr>
+                    <td><b>CPU</b></td>
+                    <td>2 GHz Intel® Core™2 Duo or AMD Athlon™ 64 X2 hoặc cao hơn</td>
+                    <td>I3 đời thứ 3 trở lên</td>
+                </tr>
+                <tr>
+                    <td><b>Ram</b></td>
+                    <td> 2GB</td>
+                    <td> 4GB trở lên</td>
+                </tr>
+                <tr>
+                    <td><b>Card</b></td>
+                    <td>512MB Xài direct 9.0 trở lên</td>
+                    <td>GTX 750Ti hoăc cao hơn</td>
+                </tr>
+                <tr>
+                    <td><b>Ổ cứng</b></td>
+                    <td> 6GB</td>
+                    <td> 6GB</td>
+                </tr>
+                <tr>
+                    <td><b>Mạng</b></td>
+                    <td>Có thể có hoặc không</td>
+                    <td>Có thể có hoặc không</td>
+                </tr>
+            </table>
+        </center>
+        @{
+            var session = (TaiGameMP.Common.KhachLogin)Session[TaiGameMP.Common.CommonConstants.KHACH_SESSION];
+
+        }
+        @if (session != null)
+        {
+            <p class="mucluc1">Link tải</p>
+
+            <p class="taigame1"><b>Fshare: </b><a href="@Model.Description"> Nhấn vào đây để chuyển đến trang tải về</a></p>
+        }
+        else
+        {
+            <p class="mucluc1">Link tải</p>
+            <p class="taigame1"><b>Fshare: </b><a href="/dang-nhap"> Quý khách vui lòng đăng nhập để tải game!</a></p>
+        }
+        <div class="taokhoangtrang"></div>
+        <p class="mucluc1">Hướng dẫn cài đặt</p>
+        <div class="huongdan1">
+            <p>Bước 1: Tải game về</p>
+            <p>Bước 2: Dùng phần mềm mount file cài đặt ra ổ đĩa ảo </p>
+            <p>Bước 3: Tiến hành cài đặt bình thường</p>
+            <p>Bước 4: Sao chép tất cả tập tin trong thư mục crack vào thư mục cài đặt của game</p>
+            <p>Bước 5: Kết thúc</p>
+        </div>
+
+        <h2>Các bình luận</h2>
+        <br />
+
+        @foreach (var item in binhluanssssss)
+        {
+
+            var text = "anhdaden" + ": " + item.NoiDung;
+            <p>@text</p>
+        }
+        <br />
+        <br />
+            <p></p>
+            @using (Html.BeginForm("BinhLuan", "GameDetail"))
+            {
+                <div class="col-md-12 ">
+                    <h2>Nhập văn bản để bình luận </h2>
+                    @Html.TextBoxFor(m => Model.LK)
+                    <input type="submit" value="Dang" />
+                </div>
+            }
+        </div>
+</div>
